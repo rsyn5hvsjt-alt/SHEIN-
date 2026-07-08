@@ -19,4 +19,4 @@ Aquí están las recompensas desbloqueadas listas para inyectar a la cuenta:
 ## ⚡ PANEL DE CONTROL 
 * [x] Encriptación SSL activada.
 * [x] Cuenta protegida contra baneos.
-* [ ] Esperando confirmación de tus amigos para liberar los códigos...
+* [ ] Esperando confirmación de activacion para liberar recompensas a tu cuenta 
