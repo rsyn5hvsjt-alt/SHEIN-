@@ -12,7 +12,7 @@ Aquí están las recompensas desbloqueadas listas para inyectar a la cuenta:
 | 🛍️ Carrito Libre Completo | $500 USD | **[DISPONIBLE]** | `SHN-BROM-99X` |
 | 👗 Outfit de Temporada Gratis | $120 USD | **[DISPONIBLE]** | `SHN-JK33-LOL` |
 | 🎟️ Cupón de Descuento 100% | Ilimitado | **[PROCESANDO]** | `Cargando... 89%`|
-| 👟 Zapatos a Elección | $80 USD | **[DISPONIBLE]** | `SHN-FK3-FAKE` |
+| 👟 Zapatos a Elección | $80 USD | **[DISPONIBLE]** | `SHN-FK3 |
 
 ---
 
